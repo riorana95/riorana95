@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rana Rahul
+- 👋 Hi, I’m Rana Rahul Kumar
 - 👀 I’m interested in Software feild
 - 🌱 I’m currently learning Web Development (Udemy Course)
 - 📫 Contact : riorana95@gmail.com
